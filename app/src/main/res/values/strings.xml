@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Get Your Coffee</string>
+    <string name="background_image_2">background_image_2</string>
+    <string name="background_1">background_image_1</string>
+    <string name="text_2">Discover world\'s top restaurants and around you</string>
+    <string name="text_part_2">and be in the know.</string>
+    <string name="image_icon">image_icon</string>
+    <string name="heading">HEADING</string>
+    <string name="latin">The delicacy of roses, smoothly combined \n with  a flavorous espresso and
+    the softness of \n milk  for  an unforgettable love feeling.</string>
+    <string name="back_btn">BACK</string>
+    <string name="next_btn">NEXT</string>
+    <string name="button_text">Order Your Coffee Now</string>
+    <string name="order_button">Order</string>
+    <string name="quantity">quantity</string>
+    <string name="number">2</string>
+    <string name="order">Order</string>
+    <string name="price">order summary</string>
+    <string name="currency">$10</string>
+    <string name="topping">Toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="name">Name</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="blank">%d</string>
+    <string name="next_button_java">Next</string>
+    <string name="finish_button_java">Finish</string>
+    <string name="back_button_java">Back</string>
+    <string name="order_button_java">Order</string>
+</resources>
