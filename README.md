@@ -3,7 +3,7 @@
 Get Your Coffee
 ===================================
 
-This app displays an order form for coffee. Used in the Udacity Android for Beginners course.
+This app displays an order form for coffee. Was developed within the scholarship program (Android Basics By Google).
 
 Pre-requisites
 --------------
